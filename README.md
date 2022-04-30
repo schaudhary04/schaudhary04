@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @schaudhary04
+- 👋 Hi, I’m Saurabh Chaudhary
 - 👀 I’m trying to learn code
 - 🌱 I’m currently learning webdevelopment and c++
 - 💞️ I’m looking to collaborate on projects for my resume
